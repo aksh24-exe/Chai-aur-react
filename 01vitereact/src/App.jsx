@@ -1,11 +1,11 @@
-
+import Chai from "./Chai";
 function App() {
- 
   return (
     <>
-      <h1>Chia aur code</h1>
+      <Chai />
+      <h1>Hello chia pi lo</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
